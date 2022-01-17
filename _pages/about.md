@@ -23,6 +23,10 @@ For more information about my background, feel free to look at my [resume](http:
 - Computer Vision and Deep Neural Networks
 - Edge AI
 
+## Awards
+- Sport award at Analog Devices
+- Prof. MRD merit scholarship
+
 ## Extra-cirricular Experience
 - Colloborated with Step Up for India as English teacher for under priviliged children as part of CSR team at ADI
 - I was a part of the Young Professional Network at ADI
