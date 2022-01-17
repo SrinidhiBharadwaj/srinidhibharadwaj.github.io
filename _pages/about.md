@@ -14,6 +14,8 @@ I obtained my undergraduate degree in Electronics and Telecommunication engineer
 
 Before starting my master's, I worked at Analog Device Inc, Bangalore as a Senior Software Engineer in the Infotainment, Processing and Connectivity team. Our team was responsible for desigining and developing software framework for next generation automotive bus architecture, [Automotive Audio Bus](https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/a2b-software.html#software-overview). I was also involved with developing A<sup>2</sup>B plugins for Analog Devices' audio networking tool - [SigmaStudio](https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/ss_sigst_02.html). I am fortunate to have been mentored my some of the brightest minds at ADI - [Jagannath Rotti](https://www.linkedin.com/in/jagannath-rotti-a380416/), [Prasanna Thirumaleshwara](https://www.linkedin.com/in/prasanna-b-t-899a9491/), [Karthik Radhakrishna](https://www.linkedin.com/in/karthik-radhakrishna-02918627/), [Suhasini Raghuram](https://www.linkedin.com/in/suhasinipr/).
 
+For more information about my background, feel free to look at my [resume]()
+
 
 ## Research Interests
 - Perception of Autonomous Vehicles
