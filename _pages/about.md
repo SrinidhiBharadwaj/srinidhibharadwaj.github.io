@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Electrical and Computer Engineering department of University of California San Diego. My major is Intelligent Systems, Robotics and Control. I am a student researcher at the Contextual Robotics Institute's [Autonomous Vehicle Laboratory](http://avl.ucsd.edu) working on road network estimation and dynamic scene modeling for autonmous navigation in urban environments.
+I am a graduate student in the Electrical and Computer Engineering department of University of California San Diego. My major is Intelligent Systems, Robotics and Control. I am a student researcher at the Contextual Robotics Institute's [Autonomous Vehicle Laboratory](http://avl.ucsd.edu) working on road network estimation and dynamic scene modeling for autonmous navigation in urban environments under the supervsion of [Prof. Henrik I. Christensen](http://www.hichristensen.net/).
 
 I obtained my undergraduate degree in Electronics and Telecommunication engineering during which I worked with [Prof. Niranjana Krupa](https://staff.pes.edu/nm1042) on SSVEP based Brain Computer Interface for Game Control.
 
