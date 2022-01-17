@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Srinidhi Bharadwaj"
+title: "Srinidhi Bharadwaj Kalgundi Srinivas"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
