@@ -18,7 +18,7 @@ For more information about my background, feel free to look at my [resume](http:
 
 
 ## Research Interests
-- Perception of Autonomous Vehicles
+- Perception in Autonomous Vehicles
 - Intersection of Robotics and Artificial Intelligence
 - Computer Vision and Deep Neural Networks
 - Edge AI
