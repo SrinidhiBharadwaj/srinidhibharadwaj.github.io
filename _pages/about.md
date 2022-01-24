@@ -24,7 +24,7 @@ For more information about my background, feel free to have a look at my [resume
 - Edge AI
 
 ## Awards
-- Sport award at Analog Devices
+- Spot award at Analog Devices
 - Prof. MRD merit scholarship
 
 ## Extra-cirricular Experience
