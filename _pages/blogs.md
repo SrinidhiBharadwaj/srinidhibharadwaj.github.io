@@ -5,4 +5,5 @@ permalink: /blogs/
 author_profile: true
 ---
 
-# Page under construction, please revisit at a later point in time
+
+- [Gentle review of Linear Algebra](blogpages/linear_algebra-review/) (*under construction*)
