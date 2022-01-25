@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 
-- [Gentle review of Linear Algebra](blogpages/linear_algebra-review/) (*under construction*)
+- [An engineer's review of Linear Algebra](blogpages/linear_algebra-review/) (*under construction*)
