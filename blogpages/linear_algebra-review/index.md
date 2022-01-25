@@ -2,5 +2,7 @@
 
 - Vectors and vectors spaces
 - Dot product of vectors
-- Inverse
+- Determinant and inverses
 - Eigen Values and Eigen Decomposition
+- SVD
+- Intro to matrix calculus
