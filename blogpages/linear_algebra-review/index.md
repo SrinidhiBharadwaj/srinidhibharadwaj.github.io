@@ -11,7 +11,7 @@ A good understanding of linear algebra is a must for computer scientists who lik
 ### Some definitions of the world used widely:
 
 - **Scalar**: A scalar is nothing but a single number. Notation: Lower case letter
-- **Vector**: A vector is an array of numbers. For ease of notation, a vector is represented by lower case bold letters throughout this page. **x** is a column vector with *n* scalar values.  \
+- **Vector**: A vector is an array of numbers. For ease of notation, a vector is represented by lower case bold letters throughout this page. **x** is a column vector with *n* scalar values.  
 
   Example:  \
     **x** is a vector in **R**<sup>3</sup>. \
