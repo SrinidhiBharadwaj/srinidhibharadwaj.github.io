@@ -8,7 +8,7 @@ A good understanding of linear algebra is a must for computer scientists who lik
   In the mid 19th century, Arthur Caley introduced matrix multiplication and matrix inverses and tied matrices with determinants.Cayley used a single letter to denote a matrix, thus treating a matrix as an aggregate object. He also realized the connection between matrices and determinants, and wrote "There would be many things to say about this theory of matrices which should, it seems to me, precede the theory of determinants"[1].\
   Linear algebra took its modern form in the first half of the 20th century. The advent of computers in the later half of the 20th century elicited many computer scientists to develop new algorithms for efficient computation of matrix decompositions and solutions to system of linear equations. 
   
-### Some definitions of the world used widely:
+### Some definition of the words used widely:
 
 - **Scalar**: A scalar is nothing but a single number. Notation: Lower case letter
 - **Vector**: A vector is an array of numbers. For ease of notation, a vector is represented by lower case bold letters throughout this page. **x** is a column vector with *n* scalar values.  
