@@ -13,7 +13,7 @@ A good understanding of linear algebra is a must for computer scientists who lik
 - **Scalar**: A scalar is nothing but a single number. Notation: Lower case letter
 - **Vector**: A vector is an array of numbers. For ease of notation, a vector is represented by lower case bold letters throughout this page. **x** is a column vector with n scalar values.\
   <tab>
-  **x** is a vector in **R**<sup>3</sup>
+  <bf>x</bf> is a vector in **R**<sup>3</sup>
   **x<sub>1</sub>** = 
   <img src="https://render.githubusercontent.com/render/math?math=\begin{pmatrix}
   x_{11} \\
