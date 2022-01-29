@@ -25,7 +25,8 @@ A good understanding of linear algebra is a must for computer scientists who lik
 
   Example:  \
   **A** is a matrix of size 3x3 composed of 3 vectors of size 3x1.  \
-  **A** = 
+  **A** = $$\begin{bmatrix} 1 & 2 & 1 \\ 3 & 0 & 1 \\ 0 & 2 & 4 \end{bmatrix}$$
+
   <img src="https://render.githubusercontent.com/render/math?math=\begin{pmatrix}
           x_{11}&x_{21}&x_{31}\\
           x_{12}&x_{22}&x_{32}\\
