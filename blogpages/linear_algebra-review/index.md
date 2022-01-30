@@ -1,6 +1,11 @@
 ## An Engineer's Review of Linear Algebra (*under construction*)
 A good understanding of linear algebra is a must for computer scientists who like to delve deeper into the world of machine learning, especially deep learning. I try to provide explanations to some of the practical aspects of Linear Algebra in the context of computer science.
 
+<style>
+td {
+  font-size: 20px
+}
+</style>
 ### A brief travel in time:
 
   Around the turn of 200 B.C, the Chinese published the ["The Nine Chapters on the Mathematical Art"]("https://en.wikipedia.org/wiki/The_Nine_Chapters_on_the_Mathematical_Art") in which they introduces a way of solving 3x3 equations which is now called the referred to as Gaussian Elimination<sup>[1]</sup>. However, it was not until the 17th century the power of Linear Algebra was known.\
