@@ -23,9 +23,10 @@ A good understanding of linear algebra is a must for computer scientists who lik
   \end{pmatrix}">
 - **Matrix**: A matrix is nothing more than a 2D array of numbers. Columns of a matrix are individual vectors. Notation: Matrices are represented in upper case bold letters.
 
-  Example:  \
+  Example:
   <center>
-    **A** is a matrix of size 3x3 composed of 3 vectors of size 3x1.  \
+    **A** is a matrix of size 3x3 composed of 3 vectors of size 3x1.
+  
     **A** = $$\begin{pmatrix}  | & | & |\\
           x_{1}&x_{2}&x_{3}\\
           | & | & | \\ \end{pmatrix}$$
