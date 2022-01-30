@@ -20,9 +20,9 @@ td {
 
   Example: 
   <center>
-    **x** is a vector in **R**<sup>3</sup>.
+  <bf>x</bf> is a vector in <bf>R</bf><sup>3</sup>. <br>
   
-    **x<sub>1</sub>** = 
+    <bf>x<sub>1</sub></bf> = 
   <img src="https://render.githubusercontent.com/render/math?math=\begin{pmatrix}
         x_{11} \\
         x_{12}\\
@@ -33,9 +33,9 @@ td {
 
   Example:
   <center>
-    **A** is a matrix of size 3x3 composed of 3 vectors of size 3x1.
+  <bf>A</bf> is a matrix of size 3x3 composed of 3 vectors of size 3x1. <br>
   
-    **A** = $$\begin{pmatrix}  | & | & |\\
+    <bf>A</bf> = $$\begin{pmatrix}  | & | & |\\
           x_{1}&x_{2}&x_{3}\\
           | & | & | \\ \end{pmatrix}$$
   </center>
