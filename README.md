@@ -1,31 +1,27 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# cs228-notes
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+These notes form a concise introductory course on probabilistic graphical models. They are based on Stanford [CS228](https://cs228.stanford.edu/), taught by [Stefano Ermon](http://cs.stanford.edu/~ermon/), and have been written by [Volodymyr Kuleshov](http://www.stanford.edu/~kuleshov), with the [help](https://github.com/ermongroup/cs228-notes/commits/master) of many students and course staff.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+This course starts by introducing graphical models from the very basics and concludes by explaining from first principles the [variational auto-encoder](https://ermongroup.github.io/cs228-notes/extras/vae).
 
-# Instructions
+The compiled version is available [here](https://ermongroup.github.io/cs228-notes/).
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Contributing
 
-See more info at https://academicpages.github.io/
+This material is under construction! Although we have written up most of it, you will probably find several typos. If you do, please let us know, or submit a pull request with your fixes via GitHub.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+The notes are written in Markdown and are compiled into HTML using Jekyll. Please add your changes directly to the Markdown source code. This repo is configured without any extra Jekyll plugins so it can be compiled directly by GitHub Pages. Thus, any changes to the Markdown files will be automatically reflected in the live website.
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+To make any changes to this repo, first fork this repo. (Otherwise, if you cloned the `ermongroup/cs228-notes` repo directly onto your local machine instead of forking it first, then you may see an error like `remote: Permission to ermongroup/cs228-notes.git denied to userjanedoe`.) Make the changes you want and push them to your own forked copy of this repo. Finally, go back to the GitHub website to create a pull request to bring your changes into the `ermongroup/cs228-notes` repo.
 
-# Changelog -- bugfixes and enhancements
+If you want to test your changes locally before pushing your changes to the `master` branch, you can run Jekyll locally on your own machine. In order to install Jekyll, you can follow the instructions posted on their website (https://jekyllrb.com/docs/installation/). Then, do the following from the root of your cloned version of this repo:
+1) Make whatever changes you want to the Markdown `.md` files.
+2) `rm -r _site/`  # remove the existing compiled site
+3) `jekyll serve`  # this creates a running server
+4) Open your web browser to where the server is running and check the changes you made.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+### Notes about writing math equations
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+- Start and end math equations with `$$` **for both inline and display equations**! To make a display equation, put one newline before the starting `$$` a newline after the ending `$$`.
+
+- Avoid vertical bars `|` in any inline math equations (i.e., within a paragraph of text). Otherwise, the GitHub Markdown compiler interprets it as a table cell element (see GitHub Markdown spec [here](https://github.github.com/gfm/)). Instead, use one of `\mid`, `\vert`, `\lvert`, or `\rvert` instead. For double bar lines, write `\|` instead of `||`.
