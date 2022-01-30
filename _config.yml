@@ -49,7 +49,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-mathjax: true
 
 # SEO Related
 google_site_verification :
@@ -204,6 +203,7 @@ defaults:
       comments: true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: ""
@@ -211,6 +211,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      mathjax: true
   # _teaching
   - scope:
       path: ""
@@ -229,6 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      mathjax: true
   # _portfolio
   - scope:
       path: ""
@@ -246,7 +248,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  _blogs:
+      path: ""
+      type: blogs
+    values:
+      layout: single
+      share: true
+      mathjax: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
