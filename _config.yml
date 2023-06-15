@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Srinidhi Bharadwaj"
 title_separator          : "-"
 name                     : &name "Srinidhi Bharadwaj"
-description              : &description "MS Student at UCSD, ECE Department"
+description              : &description "Research Scientist at Autodesk"
 url                      : https://srinidhibharadwaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "srinidhibharadwaj.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Srinidhi Bharadwaj"
   avatar           : "Github.jpeg"
-  bio              : "Graduate student at UC San Diego, Autonomous Vehicle Laboratory"
-  location         : "San Diego, California"
+  bio              : "Research Scientist at Autodesk"
+  location         : "San Francisco, California"
   employer         :
   pubmed           : 
   googlescholar    : 
