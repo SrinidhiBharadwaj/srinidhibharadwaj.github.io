@@ -14,7 +14,13 @@ Previously, I graduated from UC San Diego with where I majored in Intelligent Sy
 I worked at Analog Device Inc, Bangalore as a Senior Software Engineer in the Infotainment, Processing and Connectivity team from 2018 to 2021. Our team was responsible for desigining and developing platform agnostic software framework for next generation automotive bus architecture, [Automotive Audio Bus](https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/a2b-software.html#software-overview).  I was also involved with developing A<sup>2</sup>B plugins for Analog Devices' audio networking tool - [SigmaStudio](https://www.analog.com/en/design-center/evaluation-hardware-and-software/software/ss_sigst_02.html). 
 <!-- I am fortunate to have been mentored my some of the brightest minds at ADI - [Jagannath Rotti](https://www.linkedin.com/in/jagannath-rotti-a380416/), [Prasanna Thirumaleshwara](https://www.linkedin.com/in/prasanna-b-t-899a9491/), [Karthik Radhakrishna](https://www.linkedin.com/in/karthik-radhakrishna-02918627/), [Suhasini Raghuram](https://www.linkedin.com/in/suhasinipr/).
  -->
-I obtained my undergraduate degree in Electronics and Telecommunication engineering from PES Institute of Technology, Bangalore during which I worked with [Prof. Niranjana Krupa](https://staff.pes.edu/nm1042) on SSVEP based Brain Computer Interface for Game Control.
+<!-- I obtained my undergraduate degree in Electronics and Telecommunication engineering from PES Institute of Technology, Bangalore during which I worked with [Prof. Niranjana Krupa](https://staff.pes.edu/nm1042) on SSVEP based Brain Computer Interface for Game Control.
+ -->
+## Research Interests
+- Perception
+- Intersection of Robotics and Artificial Intelligence
+- Computer Vision and Deep Neural Networks
+- Edge AI
 
 <!-- For more information about my background, feel free to have a look at my [resume](http://srinidhibharadwaj.github.io/files/Srinidhi%20Srinivas-Recent.pdf). -->
 ## News
@@ -29,11 +35,7 @@ I obtained my undergraduate degree in Electronics and Telecommunication engineer
 - **August 2018**: Started my work at Analog Devices Inc (ADI) 
 
 
-## Research Interests
-- Perception
-- Intersection of Robotics and Artificial Intelligence
-- Computer Vision and Deep Neural Networks
-- Edge AI
+
 
 ## Awards
 - Spot award at Analog Devices
