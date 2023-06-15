@@ -24,7 +24,7 @@ I worked at Analog Device Inc, Bangalore as a Senior Software Engineer in the In
 
 <!-- For more information about my background, feel free to have a look at my [resume](http://srinidhibharadwaj.github.io/files/Srinidhi%20Srinivas-Recent.pdf). -->
 ## News
-- **April 2023**: Started my work at Robotics Lab at Autodesk Research in the beautiful Pier 9 office.
+- **April 2023**: Started my work at Autodesk's Robotics Lab in the beautiful Pier 9 office.
 - **March 2023**: Graduated from UCSD with MS in Electrical and Computer Engineering.
 - **September 2022**: Completed my super cool internship at Siemens where I worked on Flexible Grasping for robots.
 - **June 2022**: Started my internship at Siemens, Berkeley.
