@@ -1,7 +1,6 @@
 ---
 title: "GraspFormer: A Transformer Based Approach to Robot Grasping"
 collection: projects
-type: "Class Project"
 permalink: /project/2022-Graspformer
 ---
 
