@@ -2,7 +2,7 @@
 title: "GraspFormer: A Transformer Based Approach to Robot Grasping"
 collection: projects
 type: "Class Project"
-permalink: /projects/2022-Graspformer
+permalink: /project/2022-Graspformer
 ---
 
 [Code](https://github.com/SrinidhiBharadwaj/GraspFormer), [Report](https://github.com/SrinidhiBharadwaj/GraspFormer/blob/main/Collaterals/Report.pdf)
