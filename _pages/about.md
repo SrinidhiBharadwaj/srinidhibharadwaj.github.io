@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am currently a researcher at Autodesk Research's Robotics Lab building adaptive robotics assembly systems for manufacturing and construction applications. My main focus and research interst is the intersection of AI and Robotics. 
 
 Previously, I graduated from UC San Diego with where I majored in Intelligent Systems, Robotics and Control. At UC San Diego, I was a graduate student researcher at Contextual Robotics Institute's [Autonomous Vehicle Laboratory](http://avl.ucsd.edu) working on road network estimation and dynamic scene modeling for autonmous navigation in urban environment under the supervsion of [Prof. Henrik I. Christensen](http://www.hichristensen.net/).
